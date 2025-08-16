@@ -1,0 +1,14 @@
+{
+    "theme": "dark",
+    "primary_color": "#6a5af9",
+    "secondary_color": "#d66efd",
+    "accent_color": "#4cc9f0",
+    "gauge_cpu_color": "#6a5af9",
+    "gauge_memory_color": "#d66efd",
+    "gauge_disk_color": "#4cc9f0",
+    "text_color": "#e0e0ff",
+    "card_color": "rgba(30, 30, 65, 0.7)",
+    "font": "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif",
+    "automation_rules": [],
+    "language": "english"
+}
