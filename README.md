@@ -137,9 +137,9 @@ Main dashboard showing system stats and desktop interface.
 
 
 Embedded Flask API console for local automation.
-(image.png)
-(image-1.png)
-(image-7.png)
-(image-8.png)
-(image-10.png)
-```
+
+![Screenshot 1](image.png)
+![Screenshot 2](image-1.png)
+![Screenshot 3](image-7.png)
+![Screenshot 4](image-8.png)
+![Screenshot 5](image-10.png)
