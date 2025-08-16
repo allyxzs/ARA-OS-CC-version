@@ -19,8 +19,6 @@
 5. [Usage](#usage)
 6. [Usage Policy](#usage-policy)
 7. [Contributing](#contributing)
-8. [Development Cost](#development-cost)
-9. [License](#license)
 
 ---
 
