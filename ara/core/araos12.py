@@ -2545,13 +2545,13 @@ def create_window():
     webview.start()
 
 if __name__ == '__main__':
-    # Iniciar servidor Flask em uma thread separada
+  
     server_thread = threading.Thread(target=run_server)
     server_thread.daemon = True
     server_thread.start()
     
-    # Aguardar o servidor iniciar
-    time.sleep(1)
     
-    # Iniciar a janela desktop
+    time.sleep(1)
+   
+
     create_window()
