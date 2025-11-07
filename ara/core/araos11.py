@@ -1,3 +1,5 @@
+# ARA OS version 211 or CC version 11
+
 import webview
 import threading
 import time
